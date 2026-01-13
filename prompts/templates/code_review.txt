@@ -1,0 +1,55 @@
+# COMPREHENSIVE CODE REVIEW REQUEST
+
+## PROJECT CONTEXT
+{project_context}
+
+## YOUR TASK: Comprehensive Code Review
+Please analyze this codebase thoroughly and provide:
+
+### 1. ARCHITECTURE ANALYSIS
+- Overall architecture quality and patterns used
+- Module/component organization
+- Dependencies and coupling analysis
+- Scalability considerations
+
+### 2. CODE QUALITY ASSESSMENT
+- Code style consistency
+- Error handling patterns
+- Testing strategy and coverage
+- Documentation quality
+
+### 3. SECURITY REVIEW
+- Potential vulnerabilities
+- Input validation issues
+- Authentication/authorization patterns
+- Data protection measures
+
+### 4. PERFORMANCE CONSIDERATIONS
+- Potential bottlenecks
+- Memory/CPU usage patterns
+- Database/API optimization opportunities
+- Caching strategies
+
+### 5. MAINTAINABILITY
+- Code complexity analysis
+- Technical debt identification
+- Refactoring suggestions
+- Future-proofing recommendations
+
+### 6. SPECIFIC ISSUES
+List specific issues found with:
+- File paths
+- Line numbers (when possible)
+- Severity (Critical/High/Medium/Low)
+- Suggested fixes
+
+## OUTPUT FORMAT
+Please structure your response as:
+1. EXECUTIVE SUMMARY (1-2 paragraphs)
+2. KEY FINDINGS (bulleted list)
+3. DETAILED ANALYSIS (by category above)
+4. PRIORITIZED ACTION ITEMS
+5. QUICK WINS (easy fixes)
+6. LONG-TERM RECOMMENDATIONS
+
+Be specific, reference actual code patterns, and provide concrete examples from the codebase.

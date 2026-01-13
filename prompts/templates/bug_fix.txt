@@ -1,0 +1,46 @@
+# BUG FIXING ASSISTANCE REQUEST
+
+## PROJECT CONTEXT
+{project_context}
+
+## YOUR TASK: Bug Detection and Fixes
+Analyze this codebase for potential bugs and provide fixes:
+
+### 1. COMMON BUG PATTERNS
+Look for:
+- Null/undefined reference errors
+- Memory leaks (where applicable)
+- Race conditions
+- Off-by-one errors
+- Type coercion issues
+- API misuse patterns
+
+### 2. ERROR HANDLING REVIEW
+- Uncaught exceptions
+- Inadequate error messages
+- Silent failures
+- Resource cleanup issues
+
+### 3. EDGE CASE TESTING
+- Boundary conditions
+- Invalid input handling
+- Concurrency issues
+- Network/timeout handling
+
+### 4. SPECIFIC FIXES REQUIRED
+For each bug found:
+1. **Bug Description**: Clear explanation
+2. **Location**: File and line number
+3. **Impact**: Severity and affected functionality
+4. **Root Cause**: Why it happens
+5. **Fix**: Complete code fix
+6. **Test**: Suggested test case
+
+## OUTPUT FORMAT
+Provide:
+1. CRITICAL BUGS (must fix immediately)
+2. MAJOR BUGS (should fix soon)
+3. MINOR BUGS (could fix later)
+4. CODE SMELLS (potential issues)
+
+For each item: file, line, description, and complete fix code.

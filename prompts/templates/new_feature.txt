@@ -1,0 +1,48 @@
+# NEW FEATURE IMPLEMENTATION REQUEST
+
+## PROJECT CONTEXT
+{project_context}
+
+## YOUR TASK: Implement New Feature
+Based on the existing codebase patterns, implement the following feature:
+
+{feature_description}
+
+## IMPLEMENTATION GUIDELINES
+1. Maintain consistent style with existing code
+2. Follow existing architecture patterns
+3. Include appropriate tests
+4. Update documentation
+5. Consider backward compatibility
+
+## OUTPUT REQUIREMENTS
+Provide:
+
+### 1. ARCHITECTURE DESIGN
+- How the feature fits into existing architecture
+- New components/modules needed
+- Data flow changes
+- API changes (if any)
+
+### 2. IMPLEMENTATION PLAN
+- Files to modify
+- Files to create
+- Database changes (if needed)
+- Migration scripts (if needed)
+
+### 3. CODE IMPLEMENTATION
+- Complete code for new/modified files
+- Follow existing patterns and conventions
+
+### 4. TESTING STRATEGY
+- Unit tests for new functionality
+- Integration tests
+- Edge cases to cover
+
+### 5. DEPLOYMENT CONSIDERATIONS
+- Rollout strategy
+- Monitoring needs
+- Rollback plan
+
+## FORMAT
+Provide your response in the Git-ready implementation format with patches and change specifications.
